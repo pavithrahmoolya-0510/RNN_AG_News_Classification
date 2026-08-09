@@ -1,0 +1,3 @@
+Model,Test Accuracy,Training Time (seconds)
+LSTM Without Clipping,0.913947343826294,463.5025324821472
+LSTM With Clipping,0.9073684215545654,488.91214084625244
